@@ -1,0 +1,14 @@
+[project]
+name = "project-aws-bedrock-and-lambda"
+version = "0.1.0"
+description = "Aqui vamos trabalhar na AWS para construir um agente de vendas"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aws-sam-cli>=1.140.0",
+]
+
+[dependency-groups]
+dev = [
+    "black>=25.1.0",
+]
