@@ -358,4 +358,21 @@ aws configure --profile nome-do-perfil
 
 **Dica**: Comece com um usuário de teste com permissões mínimas. Quando se sentir confortável, crie um definitivo!
 
+
+# <font color="gree">Retrieval-Augmented Generation (RAG)</font>
+
+
+| N°| Descrição |
+|---|-----------|
+| 1 | Uma técnica avançada de IA que combina LLM e recuperação de informações para melhorar a precisão e relevância das respostas geradas |
+| 2 | Contém 2 fases: |
+|   | `a.` Recuperação: Recupera documentos ou dados relevantes de uma fonte externa de conhecimento |
+|   | `b.` Geração: A informação recuperada é então passada para um modelo de linguagem para gerar uma resposta baseada tanto na consulta de entrada quanto nas informações recuperadas |
+| 3 | Requer uma base de conhecimento (por exemplo, armazenamento vetorial, banco de dados, etc.) |
+
+
+
+
+
+
 Thank God!
